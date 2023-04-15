@@ -1,0 +1,11 @@
+{
+  "Author": "Gohan",
+  "Name": "UESI",
+  "InternalName": "UESI",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "This plugin updated ESI",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
+  "Punchline": "You're welcome"
+}
